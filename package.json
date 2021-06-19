@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Erfansadeghinezhad/command-line-contact-manager/issues"
   },
-  "homepage": "https://github.com/Erfansadeghinezhad/command-line-contact-manager#readme"
+  "homepage": "https://github.com/Erfansadeghinezhad/command-line-contact-manager#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "yargs": "^17.0.1"
+  }
 }
